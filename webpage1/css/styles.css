@@ -1,0 +1,18 @@
+h1{
+    font-size: medium;
+    text-decoration: underline;
+    text-transform: uppercase;
+    line-height: normal;
+    word-spacing: 0.3em;
+    letter-spacing: 0.2em;
+}
+body{
+    background-color:deepskyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul{
+    color: rgb(139, 0, 0);
+}
+ol{
+    color:rgb(0, 139, 23);
+}
